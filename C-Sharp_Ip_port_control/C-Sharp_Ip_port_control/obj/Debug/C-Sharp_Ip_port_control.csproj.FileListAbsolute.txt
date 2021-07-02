@@ -1,0 +1,10 @@
+C:\Users\Emirhan Cuma Arslan\source\repos\C-Sharp_Ip_port_control\C-Sharp_Ip_port_control\bin\Debug\C-Sharp_Ip_port_control.exe.config
+C:\Users\Emirhan Cuma Arslan\source\repos\C-Sharp_Ip_port_control\C-Sharp_Ip_port_control\bin\Debug\C-Sharp_Ip_port_control.exe
+C:\Users\Emirhan Cuma Arslan\source\repos\C-Sharp_Ip_port_control\C-Sharp_Ip_port_control\bin\Debug\C-Sharp_Ip_port_control.pdb
+C:\Users\Emirhan Cuma Arslan\source\repos\C-Sharp_Ip_port_control\C-Sharp_Ip_port_control\obj\Debug\C-Sharp_Ip_port_control.csproj.AssemblyReference.cache
+C:\Users\Emirhan Cuma Arslan\source\repos\C-Sharp_Ip_port_control\C-Sharp_Ip_port_control\obj\Debug\C_Sharp_Ip_port_control.Form1.resources
+C:\Users\Emirhan Cuma Arslan\source\repos\C-Sharp_Ip_port_control\C-Sharp_Ip_port_control\obj\Debug\C_Sharp_Ip_port_control.Properties.Resources.resources
+C:\Users\Emirhan Cuma Arslan\source\repos\C-Sharp_Ip_port_control\C-Sharp_Ip_port_control\obj\Debug\C-Sharp_Ip_port_control.csproj.GenerateResource.cache
+C:\Users\Emirhan Cuma Arslan\source\repos\C-Sharp_Ip_port_control\C-Sharp_Ip_port_control\obj\Debug\C-Sharp_Ip_port_control.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Cuma Arslan\source\repos\C-Sharp_Ip_port_control\C-Sharp_Ip_port_control\obj\Debug\C-Sharp_Ip_port_control.exe
+C:\Users\Emirhan Cuma Arslan\source\repos\C-Sharp_Ip_port_control\C-Sharp_Ip_port_control\obj\Debug\C-Sharp_Ip_port_control.pdb

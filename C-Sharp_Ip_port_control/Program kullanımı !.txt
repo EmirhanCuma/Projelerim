@@ -1,0 +1,6 @@
+1- Açık bir ıp adresi bulun
+Not:Herhangi bir siteye ping atarak ıp'sini bulabilirsiniz,Yada;
+1.1-cmd'yi aç-ping www.google.com yaz(alan adının amacı ping atıp ıp adresini bulmamıza yarıyor,siz başka sitenin alan adını da yazabilirsiniz.)
+1.2-Pinging www.google.com [216.58.212.36] with 32 bytes of data: yazan yerden ıp yi kopyalayın
+1.3- programdaki ıp yerine ıp yi,port yerine 80 i yazın.(80 portu internet erişim protokolu http için kullanılan porttur,25 mail portunu da deneyebilirsiniz.bu port uzun süre bekletecektir)
+1.4 80 portunda "port açık",25 portunda "port kapalı" yazacaktır.
